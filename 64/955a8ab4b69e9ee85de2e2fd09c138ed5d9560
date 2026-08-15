@@ -1,0 +1,16 @@
+skills/git-commit.md
+  h_85b6e47d0ec61f 20-23
+skills/tilelang/ascend-codegen-trace.md
+  h_85b6e47d0ec61f 14,31-32
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.2",
+  "base_commit_sha": "64955a8ab4b69e9ee85de2e2fd09c138ed5d9560",
+  "prompts": {},
+  "humans": {
+    "h_85b6e47d0ec61f": {
+      "author": "xinyang <1402759843@qq.com>"
+    }
+  }
+}
