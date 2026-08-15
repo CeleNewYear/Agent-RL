@@ -1,0 +1,14 @@
+skills/base/consolidate.md
+  h_85b6e47d0ec61f 14,17-18
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.2",
+  "base_commit_sha": "8754147a5407a9cafc89138c4466000ec016c776",
+  "prompts": {},
+  "humans": {
+    "h_85b6e47d0ec61f": {
+      "author": "xinyang <1402759843@qq.com>"
+    }
+  }
+}
