@@ -1,0 +1,12 @@
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.2",
+  "base_commit_sha": "07b1b7b11759c6ce6076f1dd3e88b79e1228c234",
+  "prompts": {},
+  "humans": {
+    "h_85b6e47d0ec61f": {
+      "author": "xinyang <1402759843@qq.com>"
+    }
+  }
+}
